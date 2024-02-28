@@ -1,3 +1,3 @@
 # Malaria-with-YoloV8
 Object Detection Algorithm for Malaria parasite life stage in blood cell.
-Dataset IS avialable for this task in online.
+Dataset: https://drive.google.com/drive/folders/1LKfzaWWMVmDChlMlyCbvpJBA4En9vO2Y?usp=sharing
